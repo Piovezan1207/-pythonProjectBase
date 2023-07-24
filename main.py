@@ -8,6 +8,7 @@ load_dotenv()
 #* Exemplo 2
 #? Exemplo 3
 #TODO Exemplo 4 
+#teste github
 
 if __name__ == "__main__":
     print(os.getenv("VARIABLE"))
